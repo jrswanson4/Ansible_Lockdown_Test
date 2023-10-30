@@ -1,0 +1,6 @@
+---
+- name: Test Lockdown
+  hosts: all
+  become: true
+  roles: 
+    - AnsibleLockdown
