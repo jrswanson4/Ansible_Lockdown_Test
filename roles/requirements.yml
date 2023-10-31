@@ -1,4 +1,4 @@
 ---
 - name: AnsibleLockdown
   src: https://github.com/jrswanson4/RHEL9-CIS
-  version: main
+  version: devel
